@@ -10,9 +10,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<<<<<<< HEAD
 <img src=https://github.com/arkhiiipov/arkhiiipov/c951rah.gif>
 
 *In my free time, I participate in projects on blockchain technology, for testing applications.
 *I often participate in the ambassador programs of the project at an early stage.
 *We have a team that does this. And this is our hobby. Follow us on social networks, they are presented below!
+=======
+
+
+* In my free time, I participate in projects on blockchain technology, for testing applications.
+* I often participate in the ambassador programs of the project at an early stage.
+
+
+<img src="https://media.giphy.com/media/vd3gFQKHEe92rEdsy3/giphy.gif" alt="ChainOps"  width="1000" />
+>>>>>>> c982e4a29b5fac9e458c9a8a3010359015cbc710
