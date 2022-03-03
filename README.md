@@ -11,4 +11,4 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src=https://drive.google.com/file/d/1rCtS3wo4cJ41-7iKaYyEhBI1fvAp5PAp/view?usp=sharingc/951rah.gif>
+
