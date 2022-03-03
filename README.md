@@ -17,3 +17,7 @@
 * We have a team that does this. And this is our hobby. Follow us on social networks, they are presented below!
 
 <img src="https://media.giphy.com/media/vd3gFQKHEe92rEdsy3/giphy.gif" alt="ChainOps"  width="1000" />
+
+<a href="https://www.youtube.com/channel/[UCEAO6OZPcjETC5oq9AEj-nA]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[UCEAO6OZPcjETC5oq9AEj-nA]&key=[AIzaSyBCONR_PC2dTe6ztAdgkDvk7uQvJDMiT8M]"/>
+</a>
