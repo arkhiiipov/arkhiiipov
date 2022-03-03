@@ -1,6 +1,6 @@
 #### Hi there my name arkhiiipov! 👋 I am a devops engineer, I like this direction and want to develop further!
 
-*My technical stack:*
+#My technical stack:#
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -11,8 +11,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<img src=https://github.com/arkhiiipov/arkhiiipov/c951rah.gif>
 
 * In my free time, I participate in projects on blockchain technology, for testing applications.
 * I often participate in the ambassador programs of the project at an early stage.
