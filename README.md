@@ -1,16 +1,19 @@
-                                                     ### Hi there me name Aleksandr! 👋
+#### Hi there my name arkhiiipov! 👋 I am a devops engineer, I like this direction and want to develop further!
 
-<!--
-**arkhiiipov/arkhiiipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* My technical stack:
 
-Here are some ideas to get you started:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+* In my free time, I participate in projects on blockchain technology, for testing applications.*
+* I often participate in the ambassador programs of the project at an early stage.*
+
+ **![Youtube Chainops](https://img.shields.io/badge/Youtube%20ChainOps-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)**
