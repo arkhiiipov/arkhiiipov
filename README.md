@@ -10,10 +10,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-
-
-
-* In my free time, I participate in projects on blockchain technology, for testing applications.*
-* I often participate in the ambassador programs of the project at an early stage.*
-
- **![Youtube Chainops](https://img.shields.io/badge/Youtube%20ChainOps-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)**
