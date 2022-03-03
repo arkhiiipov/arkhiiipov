@@ -1,6 +1,6 @@
-#### Hi there my name arkhiiipov! 👋 I am a devops engineer, I like this direction and want to develop further!
+### Hi there my name arkhiiipov! 👋 I am a devops engineer, I like this direction and want to develop further!
 
-# My technical stack:
+##### My technical stack:
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
