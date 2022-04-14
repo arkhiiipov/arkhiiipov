@@ -21,7 +21,7 @@
 
 <a href="https://www.youtube.com/channel/UCEAO6OZPcjETC5oq9AEj-nA">![YouTube](https://img.shields.io/badge/ChainOps-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
 <a href="https://t.me/ChainOps">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://twitter.com/ChainOps">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://twitter.com/ChainOps_">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.instagram.com/arkhiiipov/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.reddit.com/user/ArkhipovAleksandr">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 <a href="https://medium.com/@ChainOps">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
