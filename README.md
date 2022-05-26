@@ -1,4 +1,4 @@
-### Hi there my name arkhiiipov:fire: I like this direction and want to develop further:exclamation:
+### Hi there my name ChainOps:fire: I like this direction and want to develop further:exclamation:
 
 ##### My technical stack:
 
