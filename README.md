@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/vd3gFQKHEe92rEdsy3/giphy.gif" alt="ChainOps"  width="1000" />
 
-# Social Networks:
+### Social Networks:
 
 <a href="https://www.youtube.com/channel/UCEAO6OZPcjETC5oq9AEj-nA">![YouTube](https://img.shields.io/badge/ChainOps-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
 <a href="https://t.me/ChainOps">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
