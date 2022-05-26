@@ -10,11 +10,12 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-* In my spare time, I participate in blockchain technology projects as a testnet validator.
+* In my free time, I participate in blockchain technology projects as a test network validator.
 * I often participate in project ambassador programs at an early stage.
 * We work as a team.
-* We have a large and high-quality team that deals with this. And this is our hobby.
-* We are open to any cooperation or partnership program!
+* We have a large and high-quality team that deals with this. And this is our lifestyle! 
+* We are open to any affiliate program!
+
 <img src="https://media.giphy.com/media/vd3gFQKHEe92rEdsy3/giphy.gif" alt="ChainOps"  width="1000" />
 
 # Social Networks:
