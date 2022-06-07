@@ -16,7 +16,6 @@
 * We have a large and high-quality team that deals with this. And this is our lifestyle! 
 * We are open to any affiliate program!
 
-<img src="https://media.giphy.com/media/vd3gFQKHEe92rEdsy3/giphy.gif" alt="ChainOps"  width="1000" />
 
 ### Social Networks:
 
