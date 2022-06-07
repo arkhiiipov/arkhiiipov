@@ -17,7 +17,7 @@
 * We are open to any affiliate program!
 
 
-![Alt text](https://github.com/arkhiiipov/arkhiiipov/blob/main/logo.png)
+![Alt text](https://github.com/arkhiiipov/arkhiiipov/blob/main/12046636.svg)
 
 ### Social Networks:
 
