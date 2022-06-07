@@ -1,6 +1,4 @@
-### Hi there my name ChainOps:fire: I like this direction and want to develop further:exclamation:
-
-##### My technical stack:
+#### Hi, my name is ChainOps, below are the skills that I work with every day.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -10,12 +8,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-* In my free time, I participate in blockchain technology projects as a test network validator.
-* I often participate in project ambassador programs at an early stage.
-* We work as a team.
-* We have a large and high-quality team that deals with this. And this is our lifestyle! 
-* We are open to any affiliate program!
-
 
 ![Alt text](https://github.com/arkhiiipov/arkhiiipov/blob/main/logo.png)
 
@@ -28,7 +20,3 @@
 <a href="https://www.reddit.com/user/ArkhipovAleksandr">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 <a href="https://medium.com/@ChainOps">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 <a href="mailto:arkhipovvv1996@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-*Subscribe to social networks and follow* :point_up_2:
-  
-  
