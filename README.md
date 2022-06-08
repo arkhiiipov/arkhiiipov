@@ -15,7 +15,7 @@
 
 ![Alt text](https://github.com/arkhiiipov/arkhiiipov/blob/main/logo.png)
 
-### Social Networks:
+### Follow us:
   
 <a href="https://www.youtube.com/channel/UCEAO6OZPcjETC5oq9AEj-nA">![YouTube](https://img.shields.io/youtube/channel/views/UCEAO6OZPcjETC5oq9AEj-nA?style=social) </a>
 <a href="https://twitter.com/ChainOps_">![Twitter](https://img.shields.io/twitter/follow/ChainOps_)</a>
